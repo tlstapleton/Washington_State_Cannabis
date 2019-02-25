@@ -5,4 +5,16 @@ data visualization attempts to illustrate is how did the presence of these dispe
 
 The real estate variables are median home sales prices obtained from Zillow.  All cannabis location and sales data is from the Washington State Liquor and Cannabis Data Portal.
 
+As of the end of 2018, there were over 500 cannabis dispensaries in Washington according to the Washington State Liquor and Cannabis Board.  The markers in the map below show the locations of these dispensaries, while the heat layer corresponds to the total cannabis sales in dollars since 2014.
+
+
+![All States](/Images/west_coast_states.png)
+
+
 ![Heat Map](/Images/Cannabis_Heat_Map.png)
+
+
+![Cannabis Zips](/Images/Cannabis_Sales_Change.png)
+
+
+![Perc Change](/Images/perc_change_home_price.png)
